@@ -1,4 +1,4 @@
-require 'sandbox/sandbox'
+require 'sandbox/sandbox.jar'
 require 'sandbox/version'
 require 'fakefs/safe'
 require 'timeout'
