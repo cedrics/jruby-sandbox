@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    jruby_sandbox (0.1.16-java)
+    jruby_sandbox_riddlr (0.1.16-java)
       fakefs
 
 GEM
@@ -27,7 +27,7 @@ PLATFORMS
 
 DEPENDENCIES
   fakefs
-  jruby_sandbox!
+  jruby_sandbox_riddlr!
   rake
   rake-compiler
   rspec
